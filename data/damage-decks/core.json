@@ -24,7 +24,7 @@
       "title": "Engine Damaged",
       "amount": 4,
       "damage": 2,
-      "text": "This Tank can only make one Move per turn"
+      "text": "This Tank can only make one Move per turn."
     },{
       "title": "Turret Jammed",
       "amount": 2,
@@ -39,7 +39,7 @@
       "title": "Bailed Out",
       "amount": 3,
       "damage": 0,
-      "text": "This Tank cannot More or Shoot"
+      "text": "This Tank cannot More or Shoot."
     },{
       "title": "Radio Damaged",
       "amount": 2,
