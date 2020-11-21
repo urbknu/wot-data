@@ -1,26 +1,68 @@
 [
   {
-    "name": "Assault Gun",
-    "wots": "assaultgun",
+    "name": "Light Tank",
+    "wots": "lighttank",
     "gf9": 1,
-    "description": ""
+    "description": "Friendly Tanks shooting at a Tank within Close Range of this Tank gain +1 [Firepower]"
   },
   {
-    "name": "Light Flank",
-    "wots": "lightflank",
+    "name": "Medium Tank",
+    "wots": "mediumtank",
     "gf9": 2,
-    "description": ""
+    "description": "When Shooting, this Tank may Re-roll [Blank] Attack dice."
+  },
+  {
+    "name": "Heavy Tank",
+    "wots": "heavytank",
+    "gf9": 3,
+    "description": "When Defending, this Tank may Re-roll [Blank] Defense dice."
+  },
+  {
+    "name": "Tank Destroyer",
+    "wots": "tankdestroyer",
+    "gf9": 4,
+    "description": "This Tank gains +1 [Survivability] while in Cover."
+  },
+  {
+    "name": "Self-propelled Guns",
+    "wots": "selfpropelledguns",
+    "gf9": 5,
+    "description": "Other Tanks do not block this Tanks Line of Sight"
   },
   {
     "name": "Arrow Shot",
     "wots": "arrowshot",
-    "gf9": 3,
-    "description": ""
+    "gf9": 6,
+    "description": "When attacking you must Modify a [Critical] to a Hit [Hit]"
+  },
+  {
+    "name": "Assault Gun",
+    "wots": "assaultgun",
+    "gf9": 7,
+    "description": "This tank has a Restricted Line of Sight and Fixed Field of Fire."
+  },
+  {
+    "name": "Big Gun",
+    "wots": "biggun",
+    "gf9": 8,
+    "description": "When Attacking you may Modify a [Hit] to a [Critical]."
   },
   {
     "name": "Fortress",
     "wots": "fortress",
-    "gf9": 4,
-    "description": ""
+    "gf9": 9,
+    "description": "When this tank is the target of a Side Shot, do not subtract a Defense die."
+  },
+  {
+    "name": "High Explosive",
+    "wots": "highexplosive",
+    "gf9": 10,
+    "description": "Discard all [Hit] before Assessing Damage."
+  },
+  {
+    "name": "Light Flank",
+    "wots": "lightflank",
+    "gf9": 11,
+    "description": "When this tank is a target of a Side Shot, subtract an addition Defense die."
   }
 ]
