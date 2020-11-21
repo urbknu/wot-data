@@ -1,0 +1,65 @@
+{
+  "cards": [
+    {
+      "title": "Lucky Hit",
+      "amount": 4,
+      "damage": 2,
+      "text": ""
+    },{
+      "title": "Ammo Damaged",
+      "amount": 2,
+      "damage": 3,
+      "text": "Discard all Ammo Upgrade Cards from this Tank. +1 Damage for each card discarded."
+    },{
+      "title": "Equipment Damaged",
+      "amount": 2,
+      "damage": 1,
+      "text": "Target player discards one Upgrade Card on their choice from this Tank."
+    },{
+      "title": "Crew Injured",
+      "amount": 4,
+      "damage": 2,
+      "text": "Target player discards one Crew Card of their choice from this Tank."
+    },{
+      "title": "Engine Damaged",
+      "amount": 4,
+      "damage": 2,
+      "text": "This Tank can only make one Move per turn"
+    },{
+      "title": "Turret Jammed",
+      "amount": 2,
+      "damage": 1,
+      "text": "This tank gains the Assult Gun rule."
+    },{
+      "title": "Track Destroyed",
+      "amount": 3,
+      "damage": 1,
+      "text": "This tank cannot move."
+    },{
+      "title": "Bailed Out",
+      "amount": 3,
+      "damage": 0,
+      "text": "This Tank cannot More or Shoot"
+    },{
+      "title": "Radio Damaged",
+      "amount": 2,
+      "damage": 0,
+      "text": "This Tank has [initiative]0."
+    },{
+      "title": "Engine Fire",
+      "amount": 2,
+      "damage": 1,
+      "text": "At the end of the Repair step, this Tank takes 1 Damage. If this is this Tanks last Hit Point, it is immediately Destroyed."
+    },{
+      "title": "Optics Damaged",
+      "amount": 2,
+      "damage": 0,
+      "text": "This Tank has -2[firepower]. Discard after this Tank Shoots."
+    },{
+      "title": "Crew Stunned",
+      "amount": 2,
+      "damage": 0,
+      "text": "This Tank has -1[initiative] and -1[firepower]."
+    }
+  ]
+}
