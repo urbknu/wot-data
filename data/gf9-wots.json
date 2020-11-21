@@ -4,7 +4,8 @@
     "2": "unitedkingdom",
     "3": "unitedstatesofamerica",
     "4": "unionofsovietsocialistrepublics"
-  },"special-rules": {
+  },
+  "special-rules": {
     "1":"assaultgun",
     "2":"lightflank",
     "3":"arrowshot",
