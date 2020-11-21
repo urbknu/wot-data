@@ -1,6 +1,6 @@
 {
   "nation": "unionofsovietsocialistrepublics",
-  "tanks" [{
+  "tanks": [{
       "tankname": "SU-100",
       "wots": "su100",
       "gf9": 4,
@@ -32,8 +32,7 @@
         }
       ],
       "specialrules": [
-        "type": "assaultgun",
-        "type": "lightflank"
+        "assaultgun", "lightflank"
       ],
       "icon": "",
       "crewpositions": [{
