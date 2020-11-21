@@ -12,55 +12,58 @@
     "restrictions": []
   },
   {
-      "name": "Improved Turret",
-      "unique": 0,
-      "wots": "improvedturret",
-      "face-up": 1,
-      "type": "Module",
-      "ability": "+1[initiative] during Shooting Phase",
-      "image": "",
-      "icon": "",
-      "gf9": 9,
-      "cost": 2,
-      "restrictions": [{ "specialrules": ["assaultgun"], "without":1}]
-    },
-    {
-        "name": "Improved Suspension",
-        "unique": 0,
-        "wots": "improvedsuspension",
-        "face-up": 1,
-        "type": "Module",
-        "ability": "+1[initiative] during the Movement Phase",
-        "image": "",
-        "icon": "",
-        "gf9": 10,
-        "cost": 2,
-        "restrictions": []
-      },
-      {
-          "name": "Improved Radio",
-          "unique": 0,
-          "wots": "improvedradio",
-          "face-up": 0,
-          "type": "Module",
-          "ability": "At the start of the Shooting Phase, this Tank may swap its Base[initiative] with another friendly Tank until the end of the Phase.",
-          "image": "",
-          "icon": "",
-          "gf9": 11,
-          "cost": 4,
-          "restrictions": []
-        },
-        {
-            "name": "Improved Suspension",
-            "unique": 0,
-            "wots": "improvedsuspension",
-            "face-up": 1,
-            "type": "Module",
-            "ability": "+1[initiative] during Shooting Phase",
-            "image": "",
-            "icon": "",
-            "gf9": 12,
-            "cost": 2,
-            "restrictions": []
-          }
+    "name": "Improved Turret",
+    "unique": 0,
+    "wots": "improvedturret",
+    "face-up": 1,
+    "type": "Module",
+    "ability": "+1[initiative] during Shooting Phase",
+    "image": "",
+    "icon": "",
+    "gf9": 9,
+    "cost": 2,
+    "restrictions": [{
+      "specialrules": ["assaultgun"],
+      "without": 1
+    }]
+  },
+  {
+    "name": "Improved Suspension",
+    "unique": 0,
+    "wots": "improvedsuspension",
+    "face-up": 1,
+    "type": "Module",
+    "ability": "+1[initiative] during the Movement Phase",
+    "image": "",
+    "icon": "",
+    "gf9": 10,
+    "cost": 2,
+    "restrictions": []
+  },
+  {
+    "name": "Improved Radio",
+    "unique": 0,
+    "wots": "improvedradio",
+    "face-up": 0,
+    "type": "Module",
+    "ability": "At the start of the Shooting Phase, this Tank may swap its Base[initiative] with another friendly Tank until the end of the Phase.",
+    "image": "",
+    "icon": "",
+    "gf9": 11,
+    "cost": 4,
+    "restrictions": []
+  },
+  {
+    "name": "Improved Suspension",
+    "unique": 0,
+    "wots": "improvedsuspension",
+    "face-up": 1,
+    "type": "Module",
+    "ability": "+1[initiative] during Shooting Phase",
+    "image": "",
+    "icon": "",
+    "gf9": 12,
+    "cost": 2,
+    "restrictions": []
+  }
 ]
