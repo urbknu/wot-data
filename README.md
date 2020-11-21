@@ -4,7 +4,7 @@ An easy-to-use collection of data from [World of Tanks Miniatures Game](https://
 ## WOTS IDs
 Every tank, upgrade, etc. has a `wots` field that contains an unique ID.
 
-IDs are based on [X-Wing Squadron Specification (or `xws`)](https://github.com/elistevens/wots-spec/), and using the following steps:
+IDs are based on [X-Wing Squadron Specification (or `xws`)](https://github.com/elistevens/xws-spec/), and using the following steps:
 
 1. Take the English-language name as printed on the card
 2. Lowercase the name
