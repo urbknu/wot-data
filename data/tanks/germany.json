@@ -32,8 +32,7 @@
         }
       ],
       "specialrules": [
-        "type": "assaultgun",
-        "type": "lightflank"
+        "assaultgun", "lightflank"
       ],
       "icon": "",
       "crewpositions": [{
