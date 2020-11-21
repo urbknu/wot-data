@@ -1,5 +1,5 @@
 # World of Tanks Data
-An easy-to-use collection of all data from [World of Tanks Miniatures Game](https://www.gf9games.com/worldoftanks/) by [Gale Force Nine](https://www.gf9games.com/). The idea, content, and structure is shamelessly copied from the amazing [X-Wing Data 2](https://github.com/guidokessels/xwing-data2) repository and adapted for World of Tanks Minatures Game.
+An easy-to-use collection of all data from [World of Tanks Miniatures Game](https://www.gf9games.com/worldoftanks/) by [Gale Force Nine](https://www.gf9games.com/). The idea, content, and structure are shamelessly copied from the amazing [X-Wing Data 2](https://github.com/guidokessels/xwing-data2) repository and adapted for World of Tanks Minatures Game.
 
 ## WOTS IDs
 Every tank, upgrade, etc. has a `wots` field that contains an unique ID.
