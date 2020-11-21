@@ -1,6 +1,6 @@
 {
   "nation": "unitedkingdom",
-  "tanks" [{
+  "tanks": [{
       "tankname": "VALENTINE",
       "wots": "valentine",
       "gf9": 5,
@@ -32,8 +32,7 @@
         }
       ],
       "specialrules": [
-        "type": "arrowshot",
-        "type": "fortress"
+        "arrowshot", "fortress"
       ],
       "icon": "",
       "crewpositions": [{
