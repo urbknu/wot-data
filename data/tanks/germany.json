@@ -1,6 +1,6 @@
 {
   "nation": "germany",
-  "tanks" [{
+  "tanks": [{
       "tankname": "Stug III AUSF. G",
       "wots": "stugiiiausfg",
       "gf9": 2,
