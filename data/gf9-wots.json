@@ -4,8 +4,7 @@
     "2": "unitedkingdom",
     "3": "unitedstatesofamerica",
     "4": "unionofsovietsocialistrepublics"
-  },
-  "special-rules": {
+  },"special-rules": {
     "1":"assaultgun",
     "2":"lightflank",
     "3":"arrowshot",
@@ -25,8 +24,8 @@
     "5":"valentine",
     "6":"pzkpfwivausfh",
     "7":"m4a1sherman",
-    "8":"m4a1sherman",
-    "9":"t34"
+    "8":"t34",
+    "9":"cromwell"
   },
   "upgrades": {
   }
