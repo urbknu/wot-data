@@ -4,11 +4,18 @@
     "2": "unitedkingdom",
     "3": "unitedstatesofamerica",
     "4": "unionofsovietsocialistrepublics"
-  },"special-rules": {
-    "1":"assaultgun",
-    "2":"lightflank",
-    "3":"arrowshot",
-    "4":"fortress",
+  },"specialrules": {
+    "1":"lighttank",
+    "2":"mediumtank",
+    "3":"heavytank",
+    "4":"tankdestroyer",
+    "5":"selfpropelledguns",
+    "6":"arrowshot",
+    "7":"assaultgun",
+    "8":"biggun",
+    "9":"fortress",
+    "10":"highexplosive",
+    "11":"lightflank"
   },
   "stats": {
     "1": "initiative",
