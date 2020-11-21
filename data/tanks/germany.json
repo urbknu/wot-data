@@ -1,0 +1,104 @@
+{
+  "nation": "germany",
+  "tanks" [{
+      "tankname": "Stug III AUSF. G",
+      "wots": "stugiiiausfg",
+      "gf9": 2,
+      "tier": "V",
+      "tankttype": "Tank Destroyer",
+      "productsku": "WOT02",
+      "wave": "",
+      "cost": 38,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 5
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 2
+        },
+        {
+          "type": "mobility",
+          "value": 2
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [
+        "type": "assaultgun",
+        "type": "lightflank"
+      ],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["loader", "radiooperator"]
+        }
+      ]
+    },
+    {
+      "tankname": "PZ.KPFW. IV AUSF. H",
+      "wots": "pzkpfwivausfh",
+      "gf9": 6,
+      "tier": "V",
+      "tankttype": "Medium Tank",
+      "productsku": "WOT06",
+      "wave": "",
+      "cost": 35,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 5
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 2
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["radiooperator"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Assault Gun",
+    "wots": "assaultgun",
+    "gf9": 1,
+    "description": ""
+  },
+  {
+    "name": "Light Flank",
+    "wots": "lightflank",
+    "gf9": 2,
+    "description": ""
+  },
+  {
+    "name": "Arrow Shot",
+    "wots": "arrowshot",
+    "gf9": 3,
+    "description": ""
+  },
+  {
+    "name": "Fortress",
+    "wots": "fortress",
+    "gf9": 4,
+    "description": ""
+  }
+]

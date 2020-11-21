@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "damagedecks": ["data/damage-decks/core.json"],
+  "nations": ["data/factions/nations.json"],
+  "stats": ["data/stats/stats.json"],
+  "actions": ["data/special-rules/special-rules.json"],
+  "tanks": [
+    {
+      "nation": "germany",
+      "tanks": ["data/tanks/germany.json"]
+    },
+    {
+      "nation": "unitedkingdom",
+      "tanks": ["data/tanks/unitedkingdom.json"]
+    },
+    {
+      "nation": "unitedstatesofamerica",
+      "tanks": ["data/tanks/unitedstatesofamerica.json"]
+    },
+    {
+      "nation": "unionofsovietsocialistrepublics",
+      "tanks": ["data/tanks/unionofsovietsocialistrepublics.json"]
+    }
+  ],
+  "upgrades": [
+  ]
+}

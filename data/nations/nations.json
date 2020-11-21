@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Germany",
+    "wots": "germany",
+    "icon": "",
+    "gf9":1
+  },
+  {
+    "name": "U.K.",
+    "wots": "unitedkingdom",
+    "icon": "",
+    "gf9":2
+  },
+  {
+    "name": "U.S.A.",
+    "wots": "unitedstatesofamerica",
+    "icon": "",
+    "gf9":3
+  },
+  {
+    "name": "U.S.S.R.",
+    "wots": "unionofsovietsocialistrepublics",
+    "icon": "",
+    "gf9":4
+  }
+]

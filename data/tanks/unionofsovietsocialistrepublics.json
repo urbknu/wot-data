@@ -1,0 +1,101 @@
+{
+  "nation": "unionofsovietsocialistrepublics",
+  "tanks" [{
+      "tankname": "SU-100",
+      "wots": "su100",
+      "gf9": 4,
+      "tier": "VI",
+      "tankttype": "Tank Destroyer",
+      "productsku": "WOT04",
+      "wave": "",
+      "cost": 51,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 3
+        },
+        {
+          "type": "firepower",
+          "value": 6
+        },
+        {
+          "type": "survivability",
+          "value": 2
+        },
+        {
+          "type": "mobility",
+          "value": 2
+        },
+        {
+          "type": "hitpoints",
+          "value": 5
+        }
+      ],
+      "specialrules": [
+        "type": "assaultgun",
+        "type": "lightflank"
+      ],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander", "radiooperator"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    },
+    {
+      "tankname": "T-34",
+      "wots": "t34",
+      "gf9": 8,
+      "tier": "V",
+      "tankttype": "Medium Tank",
+      "productsku": "WOT08",
+      "wave": "",
+      "cost": 40,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 6
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 3
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander", "gunner"]
+        },
+        {
+          "crewposition": ["radiooperator"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "nation": "unitedkingdom",
+  "tanks" [{
+      "tankname": "VALENTINE",
+      "wots": "valentine",
+      "gf9": 5,
+      "tier": "IV",
+      "tankttype": "Light Tank",
+      "productsku": "WOT05",
+      "wave": "",
+      "cost": 33,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 4
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 1
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [
+        "type": "arrowshot",
+        "type": "fortress"
+      ],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander", "gunner", "radiooperator"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    },
+    {
+      "tankname": "CROMWELL",
+      "wots": "cromwell",
+      "gf9": 9,
+      "tier": "VI",
+      "tankttype": "Medium Tank",
+      "productsku": "WOT09",
+      "wave": "",
+      "cost": 47,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 8
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 3
+        },
+        {
+          "type": "hitpoints",
+          "value": 5
+        }
+      ],
+      "specialrules": [],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["radiooperator"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nation": "unitedstatesofamerica",
+  "tanks" [{
+      "tankname": "M3 LEE",
+      "wots": "m3lee",
+      "gf9": 3,
+      "tier": "IV",
+      "tankttype": "Medium Tank",
+      "productsku": "WOT03",
+      "wave": "",
+      "cost": 33,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 4
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 2
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [
+        "type": "assaultgun"
+      ],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["radiooperator"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    },
+    {
+      "tankname": "M4A1 SHERMAN",
+      "wots": "m4a1sherman",
+      "gf9": 7,
+      "tier": "IV",
+      "tankttype": "Medium Tank",
+      "productsku": "WOT07",
+      "wave": "",
+      "cost": 37,
+      "history": "",
+      "stats": [{
+          "type": "initiative",
+          "value": 6
+        },
+        {
+          "type": "firepower",
+          "value": 4
+        },
+        {
+          "type": "survivability",
+          "value": 1
+        },
+        {
+          "type": "mobility",
+          "value": 2
+        },
+        {
+          "type": "hitpoints",
+          "value": 4
+        }
+      ],
+      "specialrules": [],
+      "icon": "",
+      "crewpositions": [{
+          "crewposition": ["commander"]
+        },
+        {
+          "crewposition": ["gunner"]
+        },
+        {
+          "crewposition": ["driver"]
+        },
+        {
+          "crewposition": ["radiooperator"]
+        },
+        {
+          "crewposition": ["loader"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nations": {
+    "1": "germany",
+    "2": "unitedkingdom",
+    "3": "unitedstatesofamerica",
+    "4": "unionofsovietsocialistrepublics"
+  },"special-rules": {
+    "1":"assaultgun",
+    "2":"lightflank",
+    "3":"arrowshot",
+    "4":"fortress",
+  },
+  "stats": {
+    "1": "initiative",
+    "2": "firepower",
+    "3": "survivability",
+    "4": "mobility",
+    "5": "hitpoints"
+  },
+  "tanks": {
+    "2":"stugiiiausfg",
+    "3":"m3lee",
+    "4":"su100",
+    "5":"valentine",
+    "6":"pzkpfwivausfh",
+    "7":"m4a1sherman",
+    "8":"m4a1sherman",
+    "9":"t34"
+  },
+  "upgrades": {
+  }
+}
