@@ -1,6 +1,6 @@
 {
   "nation": "unitedstatesofamerica",
-  "tanks" [{
+  "tanks": [{
       "tankname": "M3 LEE",
       "wots": "m3lee",
       "gf9": 3,
@@ -32,7 +32,7 @@
         }
       ],
       "specialrules": [
-        "type": "assaultgun"
+        "assaultgun"
       ],
       "icon": "",
       "crewpositions": [{
